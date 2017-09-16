@@ -1,0 +1,122 @@
+html,
+body,
+#graph {
+    width: 100%;
+    margin: 0 0;
+    height: 100%;
+    font-family: Open Sans;
+}
+.d3-tip {
+    line-height: 1;
+    padding: 6px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 4px;
+    font-size: 1.5em;
+    z-index: 1001;
+}
+
+/* Creates a small triangle extender for the tooltip */
+
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+}
+
+/* Style northward tooltips specifically */
+
+.d3-tip.n:after {
+    margin: -2px 0 0 0;
+    top: 100%;
+    left: 0;
+}
+#title {
+    z-index: 999;
+    top: 20px;
+    position: absolute;
+    left:33% ;
+    right:33%;
+    width:50%;
+    font-size:3em;
+}
+
+
+#graph {
+    z-index: 999;
+    top: 0;
+    position: absolute;
+}
+#dashboard {
+    width: 300px;
+    padding-left: 5px;
+    position: absolute;
+    height: 100%;
+    top: 5px;
+    bottom: 20px;
+    left: 5px;
+    opacity: 0.9;
+    background-color: #ffffee;
+    z-index: 1000;
+    box-shadow: 2px 2px 20px #999;
+    margin-top: 0;
+    overflow-y: auto
+}
+#allnodes {
+    width: 300px;
+    padding-left: 5px;
+    position: absolute;
+    height: 100%;
+    top: 5px;
+    bottom: 20px;
+    right: 5px;
+    opacity: 0.9;
+    background-color: #ffffee;
+    z-index: 1000;
+    box-shadow: 2px 2px 20px #999;
+    margin-top: 0;
+    overflow-y: auto
+}
+#guide {
+    width: 33%;
+    position: absolute;
+    bottom: 10px;
+    right: 33%;
+    left: 33%;
+    opacity: 0.9;
+    background-color: #ffffee;
+    z-index: 1000;
+    box-shadow: 2px 2px 20px #999;
+    margin-top: 0;
+}
+.to {
+    font-style: 'Open Sans';
+    vertical-align: middle;
+    box-shadow: 2px 2px #000;
+    background-color: #006064;
+    color: #fff;
+    font-size: 1.3em;
+    width: 100%;
+    margin-bottom: 2px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.guides {
+    position: relative;
+    font-style: 'Open Sans';
+    display: inline-block;
+    color: #fff;
+    font-size: 1.3em;
+    width: 33%;
+}
+.nodes {
+    cursor: pointer;
+}
