@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2637.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1353.000000 -1345.000000 2637.000000 2658.000000" height="2658.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="6.0"
+              d="M 541.282104,-1098.546753 L 202.575745,-1281.690796"
+              class="1 36" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 582.680298,-1076.294189 L 901.397461,-905.990967"
+              class="1 50" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -492.430328,-782.377747 L 111.175186,-1273.122559"
+              class="2 36" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -515.117737,-744.478943 L -645.738403,-67.697769"
+              class="2 14" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -507.532349,-744.262756 L -336.762299,525.626892"
+              class="2 30" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -487.583130,-771.969971 L -103.891418,-845.393555"
+              class="2 31" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -531.422119,-756.536560 L -751.294434,-639.846619"
+              class="2 32" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 283.885284,-971.597168 L 173.898392,-1256.447510"
+              class="3 36" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 612.901672,-463.944946 L 915.663208,-834.767578" class="4 50"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 587.760071,-424.609009 L 372.056458,18.842705" class="4 25"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -473.970062,-1065.994751 L -99.595734,-875.759155"
+              class="7 31" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -240.591263,-223.565063 L 256.161987,55.125538" class="9 25"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -288.315186,-223.392609 L -608.248596,-40.849628"
+              class="9 14" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -266.550690,-209.639572 L -321.612976,525.180786"
+              class="9 30" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 833.652832,-380.573608 L 938.631531,-823.424377"
+              class="10 50" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 810.952515,-341.780640 L 398.419983,38.447937" class="10 25"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -560.121094,-350.366943 L 254.261322,58.702827" class="11 25"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -576.312927,-337.194977 L -345.816345,527.434937"
+              class="11 30" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -567.227722,-381.879700 L 120.089340,-1264.393066"
+              class="11 36" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -752.273010,-944.047668 L -535.188354,-1057.411133"
+              class="12 7" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -759.241089,-914.194031 L -291.293365,-273.652435"
+              class="12 9" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -592.303955,-338.148071 L -920.529907,484.604523"
+              class="11 19" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -899.023376,547.133850 L -399.604462,591.382568"
+              class="19 30" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -901.352478,528.347412 L 249.766724,127.528976" class="19 25"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1112.245239,-535.815125 L 976.023682,-827.260559"
+              class="35 50" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 186.784821,-1290.331421 L 901.465881,-906.118591"
+              class="36 50" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 174.609344,-1276.962524 L 892.775452,-196.518066"
+              class="36 47" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 585.289001,-782.039673 L 896.553772,-864.422729"
+              class="37 50" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 573.444458,-753.499817 L 895.345825,-198.115173"
+              class="37 47" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 554.269165,-750.887451 L 355.624298,12.777321" class="37 25"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -516.894592,1051.390137 L -903.336914,591.426270"
+              class="13 19" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -505.095581,1046.118164 L -648.406555,41.165558"
+              class="13 14" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -493.613312,1047.346680 L -352.359833,666.106750"
+              class="13 30" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -486.453949,1051.566406 L 275.635529,165.523041"
+              class="13 25" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -619.228088,-9.308252 L 245.405670,88.481224" class="14 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1221.559448,269.248199 L 420.252411,115.141098" class="15 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 981.197205,190.201767 L -601.414612,-6.674469" class="16 14"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 981.247803,189.820374 L 420.977478,110.788551" class="16 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 475.410706,693.214539 L 642.392517,992.178650" class="17 23"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 302.156097,547.513123 L 327.213501,186.714447" class="18 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 277.049438,571.961304 L -254.288574,594.696838" class="18 30"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 794.005859,425.563477 L -880.991455,538.902710" class="20 19"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 797.951538,410.863190 L 406.784027,147.812973" class="20 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 794.218750,427.505798 L -255.047821,586.873657" class="20 30"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 801.723267,441.436859 L 361.267456,930.363159" class="20 27"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 806.197021,403.347626 L 264.778992,-588.997559" class="20 28"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1041.076050,762.069641 L 397.902466,158.962921" class="21 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 744.481201,699.965942 L 383.282898,171.491852" class="22 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 655.078796,1006.124390 L 362.911530,181.842163" class="23 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -283.318787,564.737671 L 262.755066,151.806000" class="30 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -46.215042,-827.119324 L 299.765747,16.544975" class="31 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -34.163799,982.057983 L -887.110229,570.551880" class="39 19"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -24.969028,971.684570 L -626.416321,32.995136" class="39 14"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -27.125095,973.230225 L -281.594177,654.713745" class="39 30"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -2.084702,969.363037 L 301.537842,181.013748" class="39 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -478.556854,1065.772705 L -54.176994,999.796387"
+              class="13 39" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -514.577454,1049.674316 L -1058.149780,212.692474"
+              class="13 40" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1072.861572,200.076004 L -966.072388,484.148834"
+              class="40 19" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1058.567261,165.880173 L -706.625549,8.988935" class="40 14"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1059.593384,188.660126 L -390.642456,562.294678"
+              class="40 30" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1056.399902,174.848022 L 244.978531,103.286301"
+              class="40 25" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 794.954224,417.188171 L -222.201630,110.261551" class="20 42"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -285.103699,111.656334 L -891.153137,508.616699"
+              class="42 19" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -238.348755,97.737808 L 244.845093,98.320396" class="42 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -267.001343,122.964256 L -317.916870,525.552734"
+              class="42 30" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -249.400208,118.696854 L 305.167938,926.661743" class="42 27"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -249.241776,76.827003 L 217.042908,-591.617004" class="42 28"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 291.261993,592.552795 L 55.091660,1142.993774" class="18 41"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 44.646629,1158.367798 L 310.087372,183.816406" class="41 25"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 24.481619,1161.331177 L -288.506073,659.605713" class="41 30"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1035.647827,973.608765 L -957.032532,604.815063"
+              class="44 19" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -12.674089,-394.860687 L -608.706116,-41.636360"
+              class="45 14" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 0.116826,-384.545593 L -304.041138,528.708801" class="45 30"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 4.169107,-430.098175 L -50.560169,-807.413391" class="45 31"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 11.312762,-430.037140 L 145.154663,-1253.456787"
+              class="45 36" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 27.096828,-419.875214 L 524.516357,-751.422852" class="45 37"
+              stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 570.383423,-1065.433228 L 902.388062,-201.483032"
+              class="1 47" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 371.040283,38.850945 L 921.251465,-830.740723" class="25 50"
+              stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 398.048523,70.432343 L 874.807373,-135.843185" class="25 47"
+              stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1165.376343,-305.968719 L -626.130798,-357.648315"
+              class="26 11" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 330.947601,936.690063 L 333.091919,186.926727" class="27 25"
+              stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 306.914825,950.770142 L -263.419708,633.239319" class="27 30"
+              stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 304.835236,955.509766 L -884.026978,562.926270" class="27 19"
+              stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 239.463501,-656.050476 L 161.187546,-1253.209839"
+              class="28 36" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -856.086853,-186.865616 L 247.285950,77.785294" class="33 25"
+              stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -865.482422,-173.080780 L -368.760254,538.099548"
+              class="33 30" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -881.005920,-168.937866 L -938.343811,480.361389"
+              class="33 19" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -855.500488,-194.049332 L -309.799316,-233.689178"
+              class="33 9" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1281.223022,308.607239 L -995.648804,507.169769"
+              class="34 19" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1278.076660,302.167786 L -396.605530,576.189514"
+              class="34 30" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -243.697632,-554.364441 L 274.731567,32.119400" class="43 25"
+              stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -262.001709,-548.021423 L -322.926941,525.094238"
+              class="43 30" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -273.847565,-551.724060 L -910.982361,489.387085"
+              class="43 19" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -248.045135,-595.609497 L 126.875687,-1259.871216"
+              class="43 36" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 321.026276,938.517761 L -244.956543,-532.877747"
+              class="27 43" stroke-opacity="1.0" stroke="#0000ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 921.457275,-186.736160 L 949.313049,-821.937744"
+              class="47 50" stroke-opacity="1.0" stroke="#0000ff"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ff0000" fill-opacity="1.0" class="1 36"
+                  points="186.742188,-1290.252319 206.856476,-1289.607544 198.295013,-1273.774048"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="1 50"
+                  points="917.273193,-897.507935 897.155945,-898.053101 905.638977,-913.928833"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="2 36"
+                  points="125.141663,-1284.477539 116.852715,-1266.139282 105.497658,-1280.105835"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="2 14"
+                  points="-649.149475,-50.023937 -654.575317,-69.403320 -636.901489,-65.992218"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="2 30"
+                  points="-334.363342,543.466309 -345.682007,526.826355 -327.842590,524.427429"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="2 31"
+                  points="-86.212204,-848.776672 -102.199860,-836.553955 -105.582977,-854.233154"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="2 32"
+                  points="-767.194031,-631.408447 -755.513550,-647.796387 -747.075317,-631.896851"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="3 36"
+                  points="167.414734,-1273.239258 182.294250,-1259.689331 165.502533,-1253.205688"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="4 50"
+                  points="927.047058,-848.710571 922.634705,-829.075623 908.691711,-840.459534"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="4 25"
+                  points="364.182922,35.029362 363.963135,14.905951 380.149780,22.779459"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="7 31"
+                  points="-83.548660,-867.604919 -103.672836,-867.735596 -95.518631,-883.782715"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="9 25"
+                  points="271.860229,63.932636 251.758438,62.974663 260.565521,47.276413"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="9 14"
+                  points="-623.882813,-31.929302 -612.708740,-48.666721 -603.788452,-33.032536"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="9 30"
+                  points="-322.957977,543.130432 -330.587830,524.508301 -312.638123,525.853271"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="10 50"
+                  points="942.783386,-840.938965 947.388855,-821.348450 929.874207,-825.500305"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="10 25"
+                  points="385.184418,50.647087 392.320404,31.830145 404.519562,45.065727"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="11 25"
+                  points="270.346161,66.782341 250.221558,66.745239 258.301086,50.660416"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="11 30"
+                  points="-341.179749,544.827515 -354.512634,529.753235 -337.120056,525.116638"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="11 36"
+                  points="131.149475,-1278.594238 127.189926,-1258.863037 112.988754,-1269.923096"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="12 7"
+                  points="-519.232910,-1065.743164 -531.022339,-1049.433350 -539.354370,-1065.388916"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="12 9"
+                  points="-280.675140,-259.117859 -298.560638,-268.343323 -284.026093,-278.961548"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="11 19"
+                  points="-927.199585,501.323242 -928.889282,481.269684 -912.170532,487.939362"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="19 30"
+                  points="-381.674713,592.971191 -400.398743,600.347473 -398.810181,582.417664"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="19 25"
+                  points="266.765717,121.609947 252.726242,136.028458 246.807205,119.029488"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="35 50"
+                  points="968.401917,-843.567322 984.177063,-831.071411 967.870300,-823.449707"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="36 50"
+                  points="917.320068,-897.595398 897.204285,-898.191528 905.727478,-914.045654"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="36 47"
+                  points="902.739563,-181.527542 885.280212,-191.535995 900.270691,-201.500137"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="37 50"
+                  points="913.954651,-869.028259 898.856506,-855.722290 894.251038,-873.123169"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="37 47"
+                  points="904.372131,-182.541916 887.559204,-193.602036 903.132446,-202.628311"
+                  stroke="none"/>
+        <polyline fill="#ff0000" fill-opacity="1.0" class="37 25"
+                  points="351.092926,30.197617 346.914154,10.511633 364.334442,15.043009"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="13 19"
+                  points="-914.915649,577.644653 -896.446106,585.636902 -910.227722,597.215637"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="13 14"
+                  points="-650.947754,23.345837 -639.496704,39.894970 -657.316406,42.436146"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="13 30"
+                  points="-346.106079,649.228027 -343.920471,669.233643 -360.799194,662.979858"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="13 25"
+                  points="287.373047,151.876404 282.458832,171.391800 268.812225,159.654282"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="14 25"
+                  points="263.291656,90.504112 244.394226,97.424210 246.417114,79.538239"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="15 25"
+                  points="402.576324,111.741638 421.952148,106.303062 418.552673,123.979134"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="16 14"
+                  points="-619.276978,-8.896534 -600.303589,-15.605629 -602.525635,2.256691"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="16 25"
+                  points="403.153931,108.274353 422.234589,101.876778 419.720367,119.700325"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="17 23"
+                  points="651.169800,1007.893555 634.535034,996.567322 650.250000,987.789978"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="18 25"
+                  points="328.460602,168.757690 336.191864,187.337997 318.235138,186.090897"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="18 30"
+                  points="-272.272125,595.466370 -254.673325,585.705078 -253.903824,603.688599"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="20 19"
+                  points="-898.950378,540.117859 -881.599060,529.923218 -880.383850,547.882202"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="20 25"
+                  points="391.847290,137.768387 411.806305,140.344604 401.761749,155.281342"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="20 30"
+                  points="-272.843719,589.576538 -256.399292,577.975708 -253.696350,595.771606"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="20 27"
+                  points="349.219696,943.736755 354.580688,924.339294 367.954224,936.387024"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="20 28"
+                  points="256.157928,-604.798767 272.679596,-593.308105 256.878387,-584.687012"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="21 25"
+                  points="384.772156,146.650543 404.058655,152.397751 391.746277,165.528091"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="22 25"
+                  points="373.126038,156.631226 390.713226,166.413422 375.852570,176.570282"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="23 25"
+                  points="356.898010,164.876373 371.394409,178.835403 354.428650,184.848923"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="30 25"
+                  points="277.112366,140.949280 268.183441,158.984634 257.326691,144.627365"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="31 25"
+                  points="306.595428,33.198967 291.438751,19.959818 308.092743,13.130133"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="39 19"
+                  points="-903.322083,562.730469 -883.199524,562.445923 -891.020935,578.657837"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="39 14"
+                  points="-636.127136,17.839281 -618.838379,28.139725 -633.994263,37.850548"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="39 30"
+                  points="-292.829437,640.650696 -274.562653,649.096130 -288.625702,660.331360"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="39 25"
+                  points="308.007111,164.216461 309.936493,184.248383 293.139191,177.779114"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="13 39"
+                  points="-36.390648,997.031189 -52.794415,1008.689575 -55.559574,990.903198"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="13 40"
+                  points="-1067.953735,197.596649 -1050.601929,207.790527 -1065.697632,217.594421"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="40 19"
+                  points="-959.738525,500.997650 -974.496765,487.315765 -957.648010,480.981903"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="40 14"
+                  points="-690.185120,1.660009 -702.961060,17.209137 -710.290039,0.768734"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="40 30"
+                  points="-374.927551,571.072021 -395.031128,570.152100 -386.253784,554.437256"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="40 25"
+                  points="262.951385,102.297989 245.472687,112.272720 244.484375,94.299881"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="20 42"
+                  points="-239.434174,105.061630 -219.601669,101.645279 -224.801590,118.877823"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="42 19"
+                  points="-906.210632,518.479309 -896.084473,501.087952 -886.221802,516.145447"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="42 25"
+                  points="262.845093,98.342102 244.834244,107.320389 244.855942,89.320404"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="42 30"
+                  points="-320.175354,543.410461 -326.845734,524.423523 -308.988007,526.681946"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="42 27"
+                  points="315.354126,941.502319 297.747681,931.754822 312.588196,921.568665"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="42 28"
+                  points="227.341125,-606.380066 224.424423,-586.467896 209.661392,-596.766113"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="18 41"
+                  points="47.994331,1159.535522 46.820808,1139.445068 63.362511,1146.542480"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="41 25"
+                  points="314.817749,166.449081 318.771027,186.181595 301.403717,181.451218"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="41 30"
+                  points="-298.033112,644.333679 -280.870056,654.842163 -296.142090,664.369263"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="44 19"
+                  points="-953.279785,587.210571 -948.230286,606.691406 -965.834778,602.938721"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="45 14"
+                  points="-624.191162,-32.459526 -613.294556,-49.378868 -604.117676,-33.893852"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="45 30"
+                  points="-309.728851,545.786560 -312.580017,525.864929 -295.502258,531.552673"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="45 31"
+                  points="-53.144016,-825.226929 -41.653378,-808.705322 -59.466961,-806.121460"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="45 36"
+                  points="148.042542,-1271.223633 154.038071,-1252.012817 136.271255,-1254.900757"
+                  stroke="none"/>
+        <polyline fill="#00ff00" fill-opacity="1.0" class="45 37"
+                  points="539.494202,-761.406067 529.507996,-743.933960 519.524719,-758.911743"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="1 47"
+                  points="908.844910,-184.680954 893.987000,-198.254623 910.789124,-204.711441"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="25 50"
+                  points="930.875732,-845.951660 928.856934,-825.928589 913.645996,-835.552856"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="25 47"
+                  points="891.327393,-142.990784 878.381165,-127.583160 871.233582,-144.103210"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="26 11"
+                  points="-608.212891,-359.365509 -625.272217,-348.689362 -626.989380,-366.607269"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="27 25"
+                  points="333.143402,168.926819 342.091888,186.952469 324.091949,186.900986"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="27 30"
+                  points="-279.146576,624.483459 -259.041779,625.375854 -267.797638,641.102783"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="27 19"
+                  points="-901.119202,557.282104 -881.204895,554.380188 -886.849060,571.472351"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="28 36"
+                  points="158.848114,-1271.057251 170.111206,-1254.379517 152.263885,-1252.040161"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="33 25"
+                  points="264.789490,81.983627 245.186783,86.537064 249.385117,69.033524"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="33 30"
+                  points="-358.453339,552.856506 -376.138733,543.252991 -361.381775,532.946106"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="33 19"
+                  points="-939.927185,498.291626 -947.308899,479.569702 -929.378723,481.153076"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="33 9"
+                  points="-291.846619,-234.993271 -309.147278,-224.712830 -310.451355,-242.665527"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="34 19"
+                  points="-980.870178,517.445496 -1000.786682,514.559082 -990.510925,499.780426"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="34 30"
+                  points="-379.416931,581.532898 -399.277222,584.783813 -393.933838,567.595215"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="43 25"
+                  points="286.652954,45.605713 267.988403,38.080090 281.474731,26.158709"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="43 30"
+                  points="-323.947205,543.065308 -331.912476,524.584106 -313.941406,525.604370"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="43 19"
+                  points="-920.378113,504.740234 -918.658936,484.689209 -903.305786,494.084961"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="43 36"
+                  points="135.723206,-1275.546631 134.713440,-1255.447510 119.037933,-1264.294922"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="27 43"
+                  points="-251.418777,-549.677734 -236.556549,-536.108887 -253.356537,-529.646606"
+                  stroke="none"/>
+        <polyline fill="#0000ff" fill-opacity="1.0" class="47 50"
+                  points="950.101624,-839.920410 958.304382,-821.543457 940.321716,-822.332031"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d87092" r="23.0" cx="561.9537"
+                class="1" cy="-1087.3693" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb164d" r="23.0" cx="-510.66434"
+                class="2" cy="-767.5531" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="23.0" cx="292.35004"
+                class="3" cy="-949.6746" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df9db5" r="23.0" cx="598.03937"
+                class="4" cy="-445.74158" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="23.0" cx="-1329.7246"
+                class="5" cy="-18.295824" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="23.0" cx="1121.2662"
+                class="6" cy="477.8832" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="24.958334" cx="-496.6663"
+                class="7" cy="-1077.5277" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="23.0" cx="-1203.6948"
+                class="8" cy="-518.5592" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d87092" r="26.916666" cx="-264.502"
+                class="9" cy="-236.97958" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df9db5" r="23.0" cx="828.2323"
+                class="10" cy="-357.7073" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d24370" r="24.958334" cx="-582.87067"
+                class="11" cy="-361.79422" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df9db5" r="23.0" cx="-773.10376"
+                class="12" cy="-933.1697" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff1408" r="23.0" cx="-501.77792"
+                class="13" cy="1069.3828" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="36.708332" cx="-656.2007"
+                class="14" cy="-13.48983" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="23.0" cx="1244.6366"
+                class="15" cy="273.68637" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df9db5" r="23.0" cx="1004.51746"
+                class="16" cy="193.1028" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="23.0" cx="463.95142"
+                class="17" cy="672.6978" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d87092" r="23.0" cx="300.52795"
+                class="18" cy="570.95667" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df9db5" r="44.541668" cx="-943.8893"
+                class="19" cy="543.1587" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff1408" r="23.0" cx="817.4523"
+                class="20" cy="423.97696" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="23.0" cx="1058.2184"
+                class="21" cy="778.1441" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="23.0" cx="757.7415"
+                class="22" cy="719.3673" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="24.958334" cx="663.58405"
+                class="23" cy="1030.12" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="23.0" cx="-198.24573"
+                class="24" cy="-1164.8594" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df9db5" r="70.0" cx="333.34503"
+                class="25" cy="98.4271" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="23.0" cx="-1188.7692"
+                class="26" cy="-303.72684" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d24370" r="26.916666" cx="330.8692"
+                class="27" cy="964.1066" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="26.916666" cx="243.02681"
+                class="28" cy="-628.86633" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="23.0" cx="-1167.8173"
+                class="29" cy="923.9814" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="54.333336" cx="-327.05533"
+                class="30" cy="597.8105" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="28.875" cx="-57.36071"
+                class="31" cy="-854.2977" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="24.958334" cx="-789.68164"
+                class="32" cy="-619.4739" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d24370" r="23.0" cx="-878.9387"
+                class="33" cy="-192.34677" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df9db5" r="23.0" cx="-1300.5173"
+                class="34" cy="295.19168" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="23.0" cx="1122.1958"
+                class="35" cy="-514.5258" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df9db5" r="36.708332" cx="154.01219"
+                class="36" cy="-1307.95" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d87092" r="24.958334" cx="560.6781"
+                class="37" cy="-775.5259" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d24370" r="24.958334" cx="-11.234507"
+                class="39" cy="993.1203" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d24370" r="24.958334" cx="-1081.8198"
+                class="40" cy="176.24585" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df9db5" r="24.958334" cx="37.956215"
+                class="41" cy="1182.9313" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb164d" r="24.958334" cx="-263.80707"
+                class="42" cy="97.707115" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d24370" r="24.958334" cx="-260.55865"
+                class="43" cy="-573.43884" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="23.0" cx="-1040.5472"
+                class="44" cy="996.59235" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb164d" r="23.0" cx="7.5424614"
+                class="45" cy="-406.84155" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="23.0" cx="-446.4834"
+                class="46" cy="1289.9692" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e6cad8" r="30.833334" cx="920.08453"
+                class="47" cy="-155.4329" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="23.0" cx="1260.7257"
+                class="48" cy="-237.30943" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="23.0" cx="331.38995"
+                class="49" cy="1281.8079" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="38.666668" cx="951.81757"
+                class="50" cy="-879.0495" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="24" x="561.9537" y="-1081.4513"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="1" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Aircraft ferrying
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-510.66434" y="-761.6996"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="2" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Aerospace supply chain optimization
+        </text>
+        <text stroke-linecap="round" font-size="24" x="292.35004" y="-943.90704"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="3" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Aerospace equipment procurement
+        </text>
+        <text stroke-linecap="round" font-size="24" x="598.03937" y="-439.88806"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="4" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Aerospace personnel recruiting
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-1329.7246"
+              y="-12.377855" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="5" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Logistics for space launches
+        </text>
+        <text stroke-linecap="round" font-size="24" x="1121.2662" y="483.80118"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="6" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Design of asteroid mining exploration equipment
+        </text>
+        <text stroke-linecap="round" font-size="25" x="-496.6663" y="-1071.3632"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="7" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Design of aircraft interiors
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-1203.6948"
+              y="-512.64124" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="8" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Engineering for spaceflight
+        </text>
+        <text stroke-linecap="round" font-size="25" x="-264.502" y="-230.81503"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="9" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Engineering firms for aerospace
+        </text>
+        <text stroke-linecap="round" font-size="24" x="828.2323" y="-351.78934"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="10" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Education for aerospace manufacturing workers
+        </text>
+        <text stroke-linecap="round" font-size="25" x="-582.87067"
+              y="-355.66223" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="11" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Test and calibration for commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-773.10376"
+              y="-927.31616" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="12" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Testing aerospace products
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-501.77792" y="1075.3008"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="13" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Materials processing for commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="28" x="-656.2007" y="-6.6219916"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="14" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.875px">
+            Aerostructures for Commercial Aerospace - BG
+        </text>
+        <text stroke-linecap="round" font-size="24" x="1244.6366" y="279.4852"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="15" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Aerospace coatings
+        </text>
+        <text stroke-linecap="round" font-size="24" x="1004.51746" y="198.98952"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="16" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Carbon composite materials for commercial aerospace - BG
+        </text>
+        <text stroke-linecap="round" font-size="24" x="463.95142" y="678.6158"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="17" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Coatings and Insulation for Diversified Electronics - BG
+        </text>
+        <text stroke-linecap="round" font-size="24" x="300.52795" y="576.77893"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="18" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Industrial supplies as inputs to airplanes
+        </text>
+        <text stroke-linecap="round" font-size="30" x="-943.8893" y="550.5171"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="19" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.9375px">
+            Machine shops for commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="24" x="817.4523" y="429.89493"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="20" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Industrial supplies for tools used in airplane manufacturing
+        </text>
+        <text stroke-linecap="round" font-size="24" x="1058.2184" y="784.0621"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="21" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            In-flight entertainment systems
+        </text>
+        <text stroke-linecap="round" font-size="24" x="757.7415" y="725.2853"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="22" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Propulsion systems for commercial aircraft
+        </text>
+        <text stroke-linecap="round" font-size="25" x="663.58405" y="1034.7627"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="23" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Avionics
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-198.24573"
+              y="-1158.9414" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="24" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Propulsion systems for spaceflight
+        </text>
+        <text stroke-linecap="round" font-size="36" x="333.34503" y="107.1605"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="25" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Commercial Airplanes
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-1188.7692"
+              y="-297.84012" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="26" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Equipment for test and calibration for commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="25" x="330.8692" y="970.23865"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="27" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Industrial tools for aerospace
+        </text>
+        <text stroke-linecap="round" font-size="25" x="243.02681" y="-622.7343"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="28" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Industrial tools for commercial aerospace MRO
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-1167.8173" y="929.8681"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="29" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Spacecraft
+        </text>
+        <text stroke-linecap="round" font-size="32" x="-327.05533" y="605.6594"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="30" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.0px">
+            Parts and equipment manufacturers
+        </text>
+        <text stroke-linecap="round" font-size="26" x="-57.36071" y="-849.4693"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="31" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.8125px">
+            Interiors
+        </text>
+        <text stroke-linecap="round" font-size="25" x="-789.68164" y="-613.3093"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="32" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Parts manufacturing for spacecraft
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-878.9387" y="-186.4288"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="33" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Product design software for commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-1300.5173" y="301.10965"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="34" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Programming for machine tools for commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="24" x="1122.1958" y="-508.6391"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="35" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Maintenance, repair and overhaul of support equipment for
+            commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="28" x="154.01219" y="-1301.0822"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="36" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.875px">
+            Maintenance, repair and overhaul for commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="25" x="560.6781" y="-769.39386"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="37" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Maintenance, repair and overhaul of components for commercial
+            aerospace
+        </text>
+        <text stroke-linecap="round" font-size="25" x="-11.234507" y="999.1852"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="39" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Materials distribution to commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="25" x="-1081.8198" y="182.34326"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="40" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Alloyed materials distribution to commercial aerospace
+        </text>
+        <text stroke-linecap="round" font-size="25" x="37.956215" y="1189.0632"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="41" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Distribution of industrial supplies as inputs to airplanes
+        </text>
+        <text stroke-linecap="round" font-size="25" x="-263.80707"
+              y="103.871666" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="42" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Distribution of industrial supplies for tools used in airplane
+            manufacturing
+        </text>
+        <text stroke-linecap="round" font-size="25" x="-260.55865" y="-567.3068"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="43" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.78125px">
+            Distribution of industrial tools for aerospace
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-1040.5472"
+              y="1002.47906" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="44" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Parts and equipment distribution for commercial aircraft component
+            manufacturers
+        </text>
+        <text stroke-linecap="round" font-size="24" x="7.5424614" y="-400.95483"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="45" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Parts and equipment distribution for commercial aircraft MRO firms
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-446.4834" y="1295.8872"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="46" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Parts and equipment distribution for general aviation
+        </text>
+        <text stroke-linecap="round" font-size="26" x="920.08453" y="-149.02177"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="47" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.8125px">
+            Aircraft leasing
+        </text>
+        <text stroke-linecap="round" font-size="24" x="1260.7257" y="-232.8524"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="48" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Insurance For Businesses
+        </text>
+        <text stroke-linecap="round" font-size="24" x="331.38995" y="1287.7258"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="49" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Consulting for Aerospace
+        </text>
+        <text stroke-linecap="round" font-size="28" x="951.81757" y="-873.7858"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="50" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.875px">
+            Airlines
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="561.9537" y="-1081.4513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="1">
+            Aircraft ferrying
+        </text>
+        <text font-size="24" x="-510.66434" y="-761.6996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="2">
+            Aerospace supply chain optimization
+        </text>
+        <text font-size="24" x="292.35004" y="-943.90704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="3">
+            Aerospace equipment procurement
+        </text>
+        <text font-size="24" x="598.03937" y="-439.88806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="4">
+            Aerospace personnel recruiting
+        </text>
+        <text font-size="24" x="-1329.7246" y="-12.377855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="5">
+            Logistics for space launches
+        </text>
+        <text font-size="24" x="1121.2662" y="483.80118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="6">
+            Design of asteroid mining exploration equipment
+        </text>
+        <text font-size="25" x="-496.6663" y="-1071.3632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="7">
+            Design of aircraft interiors
+        </text>
+        <text font-size="24" x="-1203.6948" y="-512.64124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="8">
+            Engineering for spaceflight
+        </text>
+        <text font-size="25" x="-264.502" y="-230.81503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="9">
+            Engineering firms for aerospace
+        </text>
+        <text font-size="24" x="828.2323" y="-351.78934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="10">
+            Education for aerospace manufacturing workers
+        </text>
+        <text font-size="25" x="-582.87067" y="-355.66223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="11">
+            Test and calibration for commercial aerospace
+        </text>
+        <text font-size="24" x="-773.10376" y="-927.31616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="12">
+            Testing aerospace products
+        </text>
+        <text font-size="24" x="-501.77792" y="1075.3008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="13">
+            Materials processing for commercial aerospace
+        </text>
+        <text font-size="28" x="-656.2007" y="-6.6219916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="14">
+            Aerostructures for Commercial Aerospace - BG
+        </text>
+        <text font-size="24" x="1244.6366" y="279.4852" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="15">
+            Aerospace coatings
+        </text>
+        <text font-size="24" x="1004.51746" y="198.98952" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="16">
+            Carbon composite materials for commercial aerospace - BG
+        </text>
+        <text font-size="24" x="463.95142" y="678.6158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="17">
+            Coatings and Insulation for Diversified Electronics - BG
+        </text>
+        <text font-size="24" x="300.52795" y="576.77893" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="18">
+            Industrial supplies as inputs to airplanes
+        </text>
+        <text font-size="30" x="-943.8893" y="550.5171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="19">
+            Machine shops for commercial aerospace
+        </text>
+        <text font-size="24" x="817.4523" y="429.89493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="20">
+            Industrial supplies for tools used in airplane manufacturing
+        </text>
+        <text font-size="24" x="1058.2184" y="784.0621" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="21">
+            In-flight entertainment systems
+        </text>
+        <text font-size="24" x="757.7415" y="725.2853" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="22">
+            Propulsion systems for commercial aircraft
+        </text>
+        <text font-size="25" x="663.58405" y="1034.7627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="23">
+            Avionics
+        </text>
+        <text font-size="24" x="-198.24573" y="-1158.9414" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="24">
+            Propulsion systems for spaceflight
+        </text>
+        <text font-size="36" x="333.34503" y="107.1605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="25">
+            Commercial Airplanes
+        </text>
+        <text font-size="24" x="-1188.7692" y="-297.84012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="26">
+            Equipment for test and calibration for commercial aerospace
+        </text>
+        <text font-size="25" x="330.8692" y="970.23865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="27">
+            Industrial tools for aerospace
+        </text>
+        <text font-size="25" x="243.02681" y="-622.7343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="28">
+            Industrial tools for commercial aerospace MRO
+        </text>
+        <text font-size="24" x="-1167.8173" y="929.8681" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="29">
+            Spacecraft
+        </text>
+        <text font-size="32" x="-327.05533" y="605.6594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="30">
+            Parts and equipment manufacturers
+        </text>
+        <text font-size="26" x="-57.36071" y="-849.4693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="31">
+            Interiors
+        </text>
+        <text font-size="25" x="-789.68164" y="-613.3093" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="32">
+            Parts manufacturing for spacecraft
+        </text>
+        <text font-size="24" x="-878.9387" y="-186.4288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="33">
+            Product design software for commercial aerospace
+        </text>
+        <text font-size="24" x="-1300.5173" y="301.10965" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="34">
+            Programming for machine tools for commercial aerospace
+        </text>
+        <text font-size="24" x="1122.1958" y="-508.6391" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="35">
+            Maintenance, repair and overhaul of support equipment for
+            commercial aerospace
+        </text>
+        <text font-size="28" x="154.01219" y="-1301.0822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="36">
+            Maintenance, repair and overhaul for commercial aerospace
+        </text>
+        <text font-size="25" x="560.6781" y="-769.39386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="37">
+            Maintenance, repair and overhaul of components for commercial
+            aerospace
+        </text>
+        <text font-size="25" x="-11.234507" y="999.1852" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="39">
+            Materials distribution to commercial aerospace
+        </text>
+        <text font-size="25" x="-1081.8198" y="182.34326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="40">
+            Alloyed materials distribution to commercial aerospace
+        </text>
+        <text font-size="25" x="37.956215" y="1189.0632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="41">
+            Distribution of industrial supplies as inputs to airplanes
+        </text>
+        <text font-size="25" x="-263.80707" y="103.871666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="42">
+            Distribution of industrial supplies for tools used in airplane
+            manufacturing
+        </text>
+        <text font-size="25" x="-260.55865" y="-567.3068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="43">
+            Distribution of industrial tools for aerospace
+        </text>
+        <text font-size="24" x="-1040.5472" y="1002.47906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="44">
+            Parts and equipment distribution for commercial aircraft component
+            manufacturers
+        </text>
+        <text font-size="24" x="7.5424614" y="-400.95483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="45">
+            Parts and equipment distribution for commercial aircraft MRO firms
+        </text>
+        <text font-size="24" x="-446.4834" y="1295.8872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="46">
+            Parts and equipment distribution for general aviation
+        </text>
+        <text font-size="26" x="920.08453" y="-149.02177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="47">
+            Aircraft leasing
+        </text>
+        <text font-size="24" x="1260.7257" y="-232.8524" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="48">
+            Insurance For Businesses
+        </text>
+        <text font-size="24" x="331.38995" y="1287.7258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="49">
+            Consulting for Aerospace
+        </text>
+        <text font-size="28" x="951.81757" y="-873.7858" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Segoe UI" class="50">
+            Airlines
+        </text>
+    </g>
+</svg>
